@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GaleriaZdjec.Model
+namespace GaleriaZdjec.MVVM.Model
 {
     public class ImageModel
     {
-        public string Image { get; set; }
+        public string Source { get; set; }
     }
 }
